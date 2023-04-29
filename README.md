@@ -1,7 +1,7 @@
 # OMNIFY_ASSIGNMENT_WEATHER_APPLICATION
 
 ## Introduction
-This is a web application that allows users to search for the weather conditions in a specific location. It displays the current weather conditions, temperature, humidity and and for the selected location. The application uses an API to retrieve weather data and is built using the front-end framework React and the back-end framework Django. The application is hosted on a Firebase
+This is a web application that allows users to search for the weather conditions in a specific location. It displays the current weather conditions, temperature, humidity and and for the selected location. The application uses an API to retrieve weather data and is built using the front-end framework React and the back-end framework Django.
 
 ## Getting Started
 To run this application on your local machine, you will need to have the following software installed:
