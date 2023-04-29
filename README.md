@@ -41,7 +41,7 @@ npm start
 6. Navigate to ```http://localhost:3000``` in your web browser to view the application.
 
 ## Alternative Approach
-You can open the front end using the following link ``` https://weather-application-omnify.web.app/ ``` and then run the backend on your local system using the steps mentioned above 
+You can open the front end using the following link ``` https://weather-application-omnify.web.app ``` and then run the backend on your local system using the steps mentioned above 
 
 ## Authors
 ADITYA N
