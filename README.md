@@ -26,24 +26,25 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-3.
-3. To create all the migrations file and apply the migrations run
+3.To add your Openweathermap API go to ```weather-api/weather_project/weather_api/views.py``` and add your API under api variable
+
+4. To create all the migrations file and apply the migrations run
 ```
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
 
-4. To create an admin user to run this App. On the terminal, type the following command and provide username, password and email for the admin user
+5. To create an admin user to run this App. On the terminal, type the following command and provide username, password and email for the admin user
 ```
  python3 manage.py createsuperuser
  ```
 
-5. Running the Backend Server
+6. Running the Backend Server
 ```
 python manage.py runserver
 ```
 
-6. Open a new terminal in weather-app directory and run the application using the following commands
+7. Open a new terminal in weather-app directory and run the application using the following commands
 ```
 npm install
 npm install axios
@@ -51,7 +52,7 @@ np run build
 npm start
 ```
 
-7. Navigate to ```http://localhost:3000``` in your web browser to view the application.
+8. Navigate to ```http://localhost:3000``` in your web browser to view the application.
 
 
 ## SCREENSHOTS
@@ -64,7 +65,7 @@ npm start
 
 ## Alternative Approach
 
-You can open the application using the following link ``` https://weather-application-omnify.web.app ``` and then run the backend on your local system using the steps mentioned above 
+You can open the application using the following link ``` https://weather-application-omnify.web.app ``` and then run the backend on your local system using the steps (1-6) mentioned above 
 
 ## Authors
 ADITYA N
