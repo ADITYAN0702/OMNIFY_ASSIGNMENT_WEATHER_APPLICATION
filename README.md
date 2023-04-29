@@ -37,12 +37,12 @@ python3 manage.py migrate
  python3 manage.py createsuperuser
  ```
 
-4. Running the Backend Server
+5. Running the Backend Server
 ```
 python manage.py runserver
 ```
 
-5. Open a new terminal in weather-app directory and run the application using the following commands
+6. Open a new terminal in weather-app directory and run the application using the following commands
 ```
 npm install
 npm install axios
@@ -50,7 +50,7 @@ np run build
 npm start
 ```
 
-6. Navigate to ```http://localhost:3000``` in your web browser to view the application.
+7. Navigate to ```http://localhost:3000``` in your web browser to view the application.
 
 ## Alternative Approach
 
