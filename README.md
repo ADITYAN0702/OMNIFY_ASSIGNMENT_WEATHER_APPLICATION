@@ -16,17 +16,17 @@ React
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/weather-application.git
+git clone https://github.com/ADITYAN0702/OMNIFY_ASSIGNMENT_WEATHER_APPLICATION.git
 ```
 
-2. Open a terminal in
+2. Open a terminal in ```weather-api``` directory
 ```
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
 
-3.To add your Openweathermap API go to ```weather-api/weather_project/weather_api/views.py``` and add your API under api variable
+3.To add your Openweathermap API go to ```weather-api/weather_project/weather_api/views.py```  directory and add your API under api variable
 
 4. To create all the migrations file and apply the migrations run
 ```
