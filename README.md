@@ -25,12 +25,12 @@ pip install -r requirements.txt
 ```
 3. Assigning Privilege's
 
-4. Running the Application
+4. Running the Backend Server
 ```
 python manage.py runserver
 ```
 
-5. Open a new terminal in weather-app directory and run
+5. Open a new terminal in weather-app directory and run the application using the following commands
 ```
 npm install
 npm install axios
@@ -38,10 +38,10 @@ np run build
 npm start
 ```
 
-6. Navigate to ```http://localhost:3000/``` in your web browser to view the application.
+6. Navigate to ```http://localhost:3000``` in your web browser to view the application.
 
 ## Alternative Approach
-You can open the front end using the following link and then run the backend on your local system using the steps mentioned above 
+You can open the front end using the following link ``` https://weather-application-omnify.web.app/ ``` and then run the backend on your local system using the steps mentioned above 
 
 ## Authors
 ADITYA N
