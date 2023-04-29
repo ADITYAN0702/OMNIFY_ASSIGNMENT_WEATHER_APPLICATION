@@ -26,7 +26,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-3.To add your Openweathermap API go to ```weather-api/weather_project/weather_api/views.py```  directory and add your API under api variable
+3. To add your Openweathermap API go to ```weather-api/weather_project/weather_api/views.py```  directory and add your API under api variable
 
 4. To create all the migrations file and apply the migrations run
 ```
